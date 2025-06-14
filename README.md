@@ -190,6 +190,4 @@ You will see all questions fetched from your database.
 * Add quiz submission & scoring API
 * Build a frontend using React or HTML/JS
 
----
 
-Let me know if you need help on the next steps! 🚀
